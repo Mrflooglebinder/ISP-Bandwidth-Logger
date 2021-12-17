@@ -1,0 +1,48 @@
+RUNNING SPEEDTEST - Fri 17/12/2021 20:56:25.33 
+
+   Speedtest by Ookla
+
+     Server: ISP VENDOR NAME and Country - State (id = xxxx)
+        ISP: ISP Vendor
+    Latency:     4.79 ms   (0.15 ms jitter)
+
+   Download:   743.06 Mbps (data used: 1.0 GB )                               
+
+     Upload:     9.01 Mbps (data used: 16.1 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/3b29e823-2224-4800-8ce2-9b7c9b6dd84j
+SPEEDTEST COMPLETE -  Fri 17/12/2021 20:56:56.26 
+************************************************************************************ 
+************************************************************************************ 
+RUNNING SPEEDTEST - Fri 17/12/2021 20:56:25.33 
+
+   Speedtest by Ookla
+
+     Server: ISP VENDOR NAME and Country - State (id = xxxx)
+        ISP: ISP Vendor
+    Latency:     4.79 ms   (0.15 ms jitter)
+
+   Download:   743.06 Mbps (data used: 1.0 GB )                               
+
+     Upload:     9.01 Mbps (data used: 16.1 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/3b29e823-2224-4800-8ce2-9b7c9b6dd84j
+SPEEDTEST COMPLETE -  Fri 17/12/2021 20:56:56.26 
+************************************************************************************ 
+************************************************************************************ 
+RUNNING SPEEDTEST - Fri 17/12/2021 20:56:25.33 
+
+   Speedtest by Ookla
+
+     Server: ISP VENDOR NAME and Country - State (id = xxxx)
+        ISP: ISP Vendor
+    Latency:     4.79 ms   (0.15 ms jitter)
+
+   Download:   743.06 Mbps (data used: 1.0 GB )                               
+
+     Upload:     9.01 Mbps (data used: 16.1 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/3b29e823-2224-4800-8ce2-9b7c9b6dd84j
+SPEEDTEST COMPLETE -  Fri 17/12/2021 20:56:56.26 
+************************************************************************************ 
+************************************************************************************ 
